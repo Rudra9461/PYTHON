@@ -1,0 +1,5 @@
+we are openning the text file using open function 
+Harry is a good boy
+I am a second line 
+this is amazing 
+Twinkle Twinkle little star

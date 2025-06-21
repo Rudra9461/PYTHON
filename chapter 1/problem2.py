@@ -1,0 +1,1 @@
+# operations in python performed in command prompt and specify that python can be implied as calculator 
